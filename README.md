@@ -28,6 +28,7 @@ This project documents simulated IT Support tickets with real troubleshooting st
 | Ticket | Scenario | Status |
 |---|---|---|
 | [Ticket 01 - Account Lockout / User Cannot Log In](tickets/ticket-01-account-lockout.md) | User account locked after multiple failed login attempts | Complete |
+| [Ticket 02 - Password Reset / User Forgot Password](tickets/ticket-02-password-reset.md) | Reset a forgotten Windows user password through Computer Management | Complete |
 
 ## Upcoming Tickets
 
